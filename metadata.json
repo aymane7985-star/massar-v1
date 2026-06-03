@@ -1,0 +1,7 @@
+{
+  "name": " Massar Intel v1- Professeur Dashboard",
+  "description": "Une application SaaS moderne pour les enseignants marocains, permettant de gérer les notes Massar, d'analyser les performances des élèves via l'IA Gemini et de visualiser les statistiques de classe.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
